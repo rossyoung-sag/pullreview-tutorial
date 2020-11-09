@@ -10,5 +10,8 @@ public class Main {
         timsPhone.powerOn();
         timsPhone.callPhone(435435);
         timsPhone.answer();
+
+        timsPhone = new OfficePhone(999999);
+        // TODO: code implementation
     }
 }
