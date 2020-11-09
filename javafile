@@ -13,5 +13,8 @@ public class Main {
 
         timsPhone = new OfficePhone(999999);
         // TODO: code implementation
+
+        timsEmail = new Email(time@google.com);
+        // TODO: imp.
     }
 }
